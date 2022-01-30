@@ -2,14 +2,14 @@ import { Container, Grid, Typography } from '@mui/material';
 import React from 'react';
 import MuiButton from '../../../StyledComponent/MuiButton';
 import mobileHolder from '../../../images/mobileHolder.jpeg';
-    
+
 const Banner = () => {
     const style = {
         minHeight: 500,
         height: '100vh',
         display: 'flex',
         alignItems: 'center',
-       /*  background: `url(${bg})`*/
+       /*  Few part is removed for testing purpose*/
     }
 
 
