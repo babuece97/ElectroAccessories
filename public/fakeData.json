@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Swim Pro",
+        "Description": "Age for 0-6months",
+        "gender": "both",
+        "price": 3000,
+        "level": "beginner",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.gDf20zQsZRhS_hmt-s0EHQHaFO%26pid%3DApi&f=1"
+    },
+    {
+        "name": "Swim early",
+        "Description": "Age for 7-15months",
+        "gender": "both",
+        "price": 3500,
+        "level": "beginner",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.5Mr-0eMyNKXUD-nPmle8fAHaFj%26pid%3DApi&f=1"
+    },
+    {
+        "name": "Swim Sweet",
+        "Description": "Age for 2-4 yrs",
+        "gender": "both",
+        "price": 5000,
+        "level": "beginner",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.h621n28Y0-Nvp2PAWNkOPwHaE7%26pid%3DApi&f=1"
+    },
+    {
+        "name": "Swim fun",
+        "Description": "Age for 5-7 yrs",
+        "gender": "both",
+        "price": 5500,
+        "level": "beginner",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.bqvgn2wGPRQJ18pggME-MAHaE7%26pid%3DApi&f=1"
+    },
+    {
+        "name": " Swim together",
+        "Description": "Age for 8-9 yrs",
+        "gender": "both",
+        "price": 6000,
+        "level": "medium",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.KCrlGpSK8i4iaUeEBmmfDQHaE7%26pid%3DApi&f=1"
+    },
+    {
+        "name": "Swim ten",
+        "Description": "Age for 10-12 yrs",
+        "gender": "female",
+        "price": 7000,
+        "level": "medium",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.QOswrqq5DlbVU-h0Ay6PeQHaEo%26pid%3DApi&f=1"
+    },
+    {
+        "name": "Swim tenages",
+        "Description": "Age for 13-15 yrs",
+        "gender": "male",
+        "price": 7000,
+        "level": "expert",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ExH1gL3DYMXV575g0BSJQgHaEo%26pid%3DApi&f=1"
+    },
+    {
+        "name": "Swim girls",
+        "Description": "Age for 15-17 yrs",
+        "gender": "female",
+        "price": 8000,
+        "level": "expert",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.e1sqz-6qswpjOFBx_KbgxwHaEH%26pid%3DApi&f=1"
+    },
+    {
+        "name": "Swim Plus",
+        "Description": "Age for 19-21 yrs",
+        "gender": "both",
+        "price": 9000,
+        "level": "Expert",
+        "img": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.bandt.com.au%2Finformation%2Fuploads%2F2016%2F08%2F231000_-_Swimming_Daniel_Bell_reflections_action_-_3b_-_2000_Sydney_event_photo.jpg&f=1&nofb=1"
+    }
+]
